@@ -1,0 +1,4 @@
+name: RelaxedChunks
+version: '${project.version}'
+main: hoosk.relaxedchunks.RelaxedChunks
+api-version: '1.20'
